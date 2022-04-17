@@ -1,5 +1,5 @@
 #  Text Mining Diploma - Spring 2022
-This repository contains the notebooks for the Text Mining Course course.
+This repository contains the notebooks for the Text Mining Course course. 
 
 | Lab <br /> # | Topic | Lab <br /> Notebook | Exercise <br /> Solutions Notebook |
 | --- | ----------- | ----- |----- |
@@ -7,4 +7,4 @@ This repository contains the notebooks for the Text Mining Course course.
 |2|TF-IDF| [Lab 2](https://github.com/marwagaser/Text_Mining_Diploma/blob/main/Lab2/Text_Mining_Lab_2.ipynb) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marwagaser/Text_Mining_Diploma/blob/main/Lab2/Text_Mining_Lab_2.ipynb)
 | 3 | Text Classification| [Lab 3](https://github.com/marwagaser/Text_Mining_Diploma/blob/main/Lab3/Text_Mining_Lab_3.ipynb) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marwagaser/Text_Mining_Diploma/blob/main/Lab3/Text_Mining_Lab_3.ipynb) | [Lab 3 Solutions](https://github.com/marwagaser/Text_Mining_Diploma/blob/main/Lab3/Text_Mining_Lab_3_Solution.ipynb) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marwagaser/Text_Mining_Diploma/blob/main/Lab3/Text_Mining_Lab_3_Solution.ipynb)|
 | 4 | Sentiment Analysis| [Lab 4](https://github.com/marwagaser/Text_Mining_Diploma/blob/main/Lab4/Text_Mining_Lab_4_.ipynb) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marwagaser/Text_Mining_Diploma/blob/main/Lab4/Text_Mining_Lab_4_.ipynb) | [Lab 4 Solutions]() <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
-
+| 5 | Language Models| [Lab 5](https://github.com/marwagaser/Text_Mining_Diploma/blob/main/Lab5/Text_Mining_Lab_5.ipynb) <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marwagaser/Text_Mining_Diploma/blob/main/Lab5/Text_Mining_Lab_5.ipynb) | [Lab 4 Solutions]() <br /> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
